@@ -17,3 +17,5 @@ otra actuaizacion jeje
 voy a probar nuevamente push, deditos cruzados pa que funcione
 
 este cambio lo hice para repasar mas de pull
+
+prueba 3 de push desde VS code
