@@ -10,3 +10,4 @@ Una actualizacion mas
 
 este es un repaso de push 
 
+ese es un repaso de pull
