@@ -30,3 +30,6 @@ segunda prueba de pull jeje
 este cambio se hizo directamente de gitHub
 
 
+cambios para repasar git fetch
+
+
