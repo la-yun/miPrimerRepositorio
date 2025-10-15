@@ -24,7 +24,9 @@ git push origin main
 
 segunda prueba de push dia 2
 
+<<<<<<< HEAD
 segunda prueba de pull jeje
 
 este cambio se hizo directamente de gitHub
+
 
