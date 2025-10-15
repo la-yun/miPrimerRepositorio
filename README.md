@@ -26,3 +26,5 @@ segunda prueba de push dia 2
 
 segunda prueba de pull jeje
 
+este cambio se hizo directamente de gitHub
+
